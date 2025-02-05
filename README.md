@@ -1,2 +1,3 @@
 # CloudLabCloudLabIntroduction
 CloudObjectives
+SetupGuide
