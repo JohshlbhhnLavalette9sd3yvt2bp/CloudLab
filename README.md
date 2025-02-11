@@ -3,3 +3,4 @@ CloudObjectives
 SetupGuide
 CloudFeatures
 DependenciesList
+CodeExamples
