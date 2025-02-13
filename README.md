@@ -4,3 +4,4 @@ SetupGuide
 CloudFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
