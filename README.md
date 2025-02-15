@@ -5,3 +5,4 @@ CloudFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
