@@ -10,3 +10,4 @@ ErrorHandling
 LicenseDetails
 CloudFAQ
 Changelog
+TestingInstructions
