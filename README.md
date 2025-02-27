@@ -11,3 +11,4 @@ LicenseDetails
 CloudFAQ
 Changelog
 TestingInstructions
+CloudPerformance
