@@ -12,3 +12,4 @@ CloudFAQ
 Changelog
 TestingInstructions
 CloudPerformance
+CommunityResources
